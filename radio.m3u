@@ -1,23 +1,21 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/One800burner/Radio/main/epg.xml"
 #EXTINF:-1 tvg-id="iheartcountry-australia" tvg-name="iHeartCountry Australia" tvg-logo="https://i.ibb.co/zQj4rYr/b0bbd1d1-1f81-4ee8-8220-e5f163046dde.jpg" group-title="Radio" radio="true",iHeartCountry Australia
 http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT9.mp3
 #EXTINF:-1 tvg-id="smooth-country" tvg-name="Smooth Country" tvg-logo="https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png" group-title="Radio" radio="true",Smooth Country
 https://media-ssl.musicradio.com/SmoothCountry
 #EXTINF:-1 tvg-id="dnbradio" tvg-name="DnBRadio.com" tvg-logo="https://dnbradio.com/img/logotags.png" group-title="Radio" radio="true",DnBRadio.com
 https://fw.dnbradio.com/dnbradio_main.mp3
-#EXTINF:-1 tvg-id="listnr-drum-and-bass" tvg-name="LiSTNR Drum & Bass" tvg-logo="https://i.ibb.co/QCHF7jZ/Drum-and-Bass-square.jpg" group-title="Radio" radio="true",LiSTNR Drum & Bass
-https://wz0liw.scahw.com.au/live/drumnbass_128.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="bbc-radio-1-dance" tvg-name="BBC Radio 1 Dance" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24939q.png" group-title="Radio" radio="true",BBC Radio 1 Dance
-http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d128000.norewind.m3u8
+#EXTINF:-1 tvg-id="dnb-station" tvg-name="DnB Station" group-title="Radio" radio="true",DnB Station
+http://dnbstation.com:8005/listen.mp3
 #EXTINF:-1 tvg-id="iheartdance-australia" tvg-name="iHeartDance Australia" tvg-logo="https://i.ibb.co/hXM4wC3/652741b2f702ccd6ae1831d1.jpg" group-title="Radio" radio="true",iHeartDance Australia
 http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT7AAC.aac
-#EXTINF:-1 tvg-id="cada" tvg-name="CADA" group-title="Radio" radio="true",CADA
+#EXTINF:-1 tvg-id="cada" tvg-name="CADA" tvg-logo="https://www.cada.com.au/wp-content/uploads/sites/14/2022/03/cropped-512x-512-CADA-logo-transparent_blue.png" group-title="Radio" radio="true",CADA
 http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CADA.mp3
 #EXTINF:-1 tvg-id="bbc-radio-1xtra" tvg-name="BBC Radio 1Xtra" tvg-logo="https://cdn-radiotime-logos.tunein.com/s20277q.png" group-title="Radio" radio="true",BBC Radio 1Xtra
 http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d128000.norewind.m3u8
-#EXTINF:-1 tvg-id="rinse-uk" tvg-name="Rinse UK" tvg-logo="https://i1.sndcdn.com/avatars-HFUM5iVBOYInWEED-oro7Vg-t200x200.jpg" group-title="Radio" radio="true",Rinse UK
-https://admin.stream.rinse.fm/proxy/rinse_uk/stream
 #EXTINF:-1 tvg-id="bbc-radio-1" tvg-name="BBC Radio 1" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24939q.png" group-title="Radio" radio="true",BBC Radio 1
 http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d128000.norewind.m3u8
-#EXTINF:-1 tvg-id="triple-j" tvg-name="Triple J" tvg-logo="https://www.abc.net.au/core-assets/triplej/favicon-32x32.png" group-title="Radio" radio="true",Triple J
+#EXTINF:-1 tvg-id="rinse-uk" tvg-name="Rinse UK" tvg-logo="https://i1.sndcdn.com/avatars-HFUM5iVBOYInWEED-oro7Vg-t200x200.jpg" group-title="Radio" radio="true",Rinse UK
+https://admin.stream.rinse.fm/proxy/rinse_uk/stream
+#EXTINF:-1 tvg-id="triple-j" tvg-name="Triple J" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Triple_j_logo.svg/640px-Triple_j_logo.svg.png" group-title="Radio" radio="true",Triple J
 https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/master.m3u8
